@@ -4,7 +4,7 @@
 
     Download Python 3.10.9
     pip install pycryptodome
-    python3 -m pip install requests
+    pip install requests
     pip install pywin32              
  
 
